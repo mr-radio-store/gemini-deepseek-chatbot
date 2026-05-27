@@ -1,0 +1,19 @@
+Requirement
+pip install requests
+
+Gemini 
+pip install streamlit google-generativeai pillow
+API Key
+AIzaSyCPjbLBC3p_3jgeKmdSU2LqzVM9xzu0218
+
+Deepseek
+API
+sk-45100ce4085247b7ba8c3ebd3b0b5704
+
+for advanced IMO level 
+pip install sympy numpy python-dotenv
+
+
+
+streamlit run main.py
+local url http://localhost:8501/
